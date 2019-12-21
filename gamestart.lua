@@ -7,3 +7,18 @@ import
 
 
 asdflkasdflj>>>>>>>>>>>>>
+
+
+asldfkjaa;lskdfja;sldkfja s
+
+for i=1,10 do
+	print(i)
+end
+
+for i,v in ipairs(table_name) do
+	print(i,v)
+end
+
+for k,v in pairs(table_name) do
+	print(k,v)
+end
