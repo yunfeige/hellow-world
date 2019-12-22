@@ -22,3 +22,7 @@ end
 for k,v in pairs(table_name) do
 	print(k,v)
 end
+
+if 1 then
+	print("happy dong zhi")
+end
